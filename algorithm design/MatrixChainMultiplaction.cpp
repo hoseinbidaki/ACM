@@ -68,7 +68,7 @@ int MatrixChainOrder(int p[], int n)
   
 int main() 
 { 
-    int arr[] = {20, 2, 30, 12, 8}; 
+    int arr[] = {100, 200, 50, 70, 1}; 
     int size = sizeof(arr) / sizeof(arr[0]); 
     
     cout << "\n";
